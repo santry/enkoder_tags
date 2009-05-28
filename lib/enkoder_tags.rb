@@ -16,7 +16,7 @@ module EnkoderTags
 
   desc %{
     The enkode_mailto tag obfuscates mailto links. This makes it very 
-    difficult for bots to harvest email addresses, allowing you to publish 
+    difficult for robots to harvest email addresses, allowing you to publish 
     email addresses on the web without attracting spam.
     
     The enkode_mailto tag accepts the following attributes as tags:
