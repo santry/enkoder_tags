@@ -4,7 +4,7 @@ EnkoderTags is an extension for the [Radiant CMS][1] that provides tags for hidi
 
 The latest version is available on [GitHub][5]. When cloning, ensure your clone is named `enkoder_tags`:
 
-        git clone git://github.com/santry/enkodertags.git vendor/extensions/enkoder_tags
+        git clone git://github.com/santry/enkoder_tags.git
 	
 
 `enkode`
@@ -162,4 +162,4 @@ And no thanks to the spammers who make this kind of thing necessary. Ugh.
 [2]: http://hivelogic.com/articles/2006/02/07/enkoder_plugin
 [3]: http://wiseheartdesign.com/
 [4]: http://hivelogic.com/	
-[5]: http://github.com/santry/enkodertags/
+[5]: http://github.com/santry/enkoder_tags/
